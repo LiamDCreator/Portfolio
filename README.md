@@ -11,7 +11,10 @@ Hi there and thanks for taking a look at my portofolio, My name is Liam, I am a 
     *Technologies:* Unity, C#, Git, milanote, aseprite, ableton 12  
     *Solo project — built from concept to release. Only used assets for background and sound effects. Everything else is 100% made by me*
     
-    [![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.liamDCreator)
+  <a href="https://play.google.com/store/apps/details?id=com.liamDCreator" target="_blank">
+  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="200">
+</a>
+
   - **A slippery slime** 
 </details>
 
