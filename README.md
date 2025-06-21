@@ -48,7 +48,7 @@ Still in development
 
  <h2> Hogeschool van Amsterdam  </h2>
 <h3> Game Development Studies </h3> 
-<p><i>Sept 2022 – Jan 2024 (1.5 years, no degree earned)</i></p> 
+<p><i>Sept 2022 – Jan 2024 (1.5 years)</i></p> 
 
 During my time at HvA, I studied the fundamentals of game development, including programming, design, and project workflows.  
 My most valuable experiences came from collaborating in team-based projects, where I learned how to communicate effectively, divide responsibilities, and contribute to larger creative goals.  
