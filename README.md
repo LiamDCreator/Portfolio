@@ -48,7 +48,7 @@ Still in development
 
  <h2> Hogeschool van Amsterdam  </h2>
 <h3> Game Development Studies </h3> 
-*Sept 2022 – Jan 2024 (1.5 years, no degree earned)*  
+<p><i>Sept 2022 – Jan 2024 (1.5 years, no degree earned)</i></p> 
 
 During my time at HvA, I studied the fundamentals of game development, including programming, design, and project workflows.  
 My most valuable experiences came from collaborating in team-based projects, where I learned how to communicate effectively, divide responsibilities, and contribute to larger creative goals.  
@@ -58,16 +58,30 @@ My most valuable experiences came from collaborating in team-based projects, whe
 <details>
   <summary><strong>🛠 Skills</strong></summary>
 
-  - Unity (2D)
-  - C#
-  - Git & GitHub (branching, team workflow)
-  - Pixel Art
-  - Game Design
-  - Sound design
-  - Visual studio code
-  - UI/UX
-  - publishing
-  - closed testing
+<ul>
+  <li><strong>Programming & Tools</strong>
+    <ul>
+      <li>Unity (2D)</li>
+      <li>C#</li>
+      <li>Git</li>
+      <li>Visual Studio Code</li>
+    </ul>
+  </li>
+  <li><strong>Art & Design</strong>
+    <ul>
+      <li>Game Design</li>
+      <li>UI/UX</li>
+      <li>Pixel Art</li>
+    </ul>
+  </li>
+ <li><strong>Other</strong>
+    <ul>
+       <li>Publishing</li>
+      <li>Closed Testing</li>
+      <li>Sound Design</li>
+    </ul>
+  </li>
+</ul>
     
 
 </details>
