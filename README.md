@@ -33,15 +33,10 @@ Still in development
 <details>
   <summary><strong>💼 Career</strong></summary>
 
- <h2> Hogeschool van Amsterdam  </h2>
-<h3> Game Development Studies </h3> 
-*Sept 2022 – Jan 2024 (1.5 years, no degree earned)*  
 
-During my time at HvA, I studied the fundamentals of game development, including programming, design, and project workflows.  
-My most valuable experiences came from collaborating in team-based projects, where I learned how to communicate effectively, divide responsibilities, and contribute to larger creative goals.  
 
  
-<h2>🎮 My Game Development Journey</h2>
+<h2> My Game Development Journey</h2>
 
 <p>My interest in game development began when I was 18, after I realized that games weren’t just meant to be played — they could be created. Playing games and learning about them has always been the most fun and inspiring thing for me, so I was surprised it took me that long to realize I could start making them myself.</p>
 
@@ -51,7 +46,12 @@ My most valuable experiences came from collaborating in team-based projects, whe
 
 <p>To break the cycle and improve my approach, I decided to create a complete game with the smallest possible scope. That became <em>A Cookie’s Quest</em>, a simple but finished project that helped me understand the full development pipeline from start to finish. I'm currently working on <em>Slippery Slime</em>, a more ambitious project with a higher level of complexity, and I’m excited to keep building from here.</p>
 
+ <h2> Hogeschool van Amsterdam  </h2>
+<h3> Game Development Studies </h3> 
+*Sept 2022 – Jan 2024 (1.5 years, no degree earned)*  
 
+During my time at HvA, I studied the fundamentals of game development, including programming, design, and project workflows.  
+My most valuable experiences came from collaborating in team-based projects, where I learned how to communicate effectively, divide responsibilities, and contribute to larger creative goals.  
 
 </details>
 
