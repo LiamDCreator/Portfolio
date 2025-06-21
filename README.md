@@ -15,14 +15,16 @@ Hi there and thanks for taking a look at my portfolio, My name is Liam, I am a p
     *Solo project — built from concept to release. Only used assets for background and sound effects. Everything else is 100% made by me*
     
  
-
+ **Curve Fever**  
    **A slippery slime** 
 </details>
 
 <details>
   <summary><strong>💼 Career</strong></summary>
-## Hogeschool van Amsterdam 2022-2024    
-## De Haagse hogeschool 2024-2025
+<h2>Hogeschool van Amsterdam 2022–2024</h2>
+  <h2>De Haagse hogeschool 2024–2025</h2>  
+  <h2>My solo development journey 2022-2025 </h2>  
+  
 
 </details>
 
