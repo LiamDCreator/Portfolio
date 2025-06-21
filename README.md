@@ -41,21 +41,16 @@ During my time at HvA, I studied the fundamentals of game development, including
 My most valuable experiences came from collaborating in team-based projects, where I learned how to communicate effectively, divide responsibilities, and contribute to larger creative goals.  
 
  
- <h2> 🎮 My Game Development Journey</h2>
+<h2>🎮 My Game Development Journey</h2>
 
-My interest in game development began when I was 18, after I realized that games weren’t just meant to be played — they could be created.  
-Playing games and learning about them has always been the most fun and inspiring thing for me, so I was surprised it took me that long to realize I could start making them myself.
+<p>My interest in game development began when I was 18, after I realized that games weren’t just meant to be played — they could be created. Playing games and learning about them has always been the most fun and inspiring thing for me, so I was surprised it took me that long to realize I could start making them myself.</p>
 
-I immediately started experimenting and enrolled in the Hogeschool van Amsterdam to study game development.  
-While I did learn the basics, I had little time for personal projects, and after 1.5 years I realized the academic route wasn’t the right fit for me.  
-I made the decision to leave and fully focus on learning game development on my own.
+<p>I immediately started experimenting and enrolled in the Hogeschool van Amsterdam to study game development. While I did learn the basics, I had little time for personal projects, and after 1.5 years I realized the academic route wasn’t the right fit for me. I made the decision to leave and fully focus on learning game development on my own.</p>
 
-Along the way, I ran into common beginner pitfalls — getting stuck in tutorial hell, or trying to build games that were way too large for my skill level.  
-Even though these struggles slowed me down at times, they taught me valuable lessons about what it actually takes to complete a game.  
-Most importantly, they showed me how passionate I am about game development — because even after failing over and over, I still wanted to keep going.
+<p>Along the way, I ran into common beginner pitfalls — getting stuck in tutorial hell, or trying to build games that were way too large for my skill level. Even though these struggles slowed me down at times, they taught me valuable lessons about what it actually takes to complete a game. Most importantly, they showed me how passionate I am about game development — because even after failing over and over, I still wanted to keep going.</p>
 
-To break the cycle and improve my approach, I decided to create a complete game with the smallest possible scope. That became *A Cookie’s Quest*, a simple but finished project that helped me understand the full development pipeline from start to finish.  
-I'm currently working on *Slippery Slime*, a more ambitious project with a higher level of complexity, and I’m excited to keep building from here.
+<p>To break the cycle and improve my approach, I decided to create a complete game with the smallest possible scope. That became <em>A Cookie’s Quest</em>, a simple but finished project that helped me understand the full development pipeline from start to finish. I'm currently working on <em>Slippery Slime</em>, a more ambitious project with a higher level of complexity, and I’m excited to keep building from here.</p>
+
 
 
 </details>
