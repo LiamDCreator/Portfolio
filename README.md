@@ -11,12 +11,16 @@ Hi there and thanks for taking a look at my portfolio, My name is Liam, I am a p
   <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="200">   
 </a>       </h2>  
     
-– A Cookie's Quest is an endless 2D arcade game developed in Unity and published on the Play Store. I designed and built this game as a way to complete a fully realized small-scale project, allowing me to become familiar with every stage of the game development process — from concept to release. I knew I would inevitably work on larger games in the future, so this project was a valuable way to prepare for that growth. Publishing the game on the Play Store was not only a way to share my creation with others, but also a meaningful test to see if my work met the standards required for public release, while gaining insight into the publishing side of game development.  
-  
-*Technologies:* Unity, C#, GitHub, milanote, aseprite, ableton 12  
+  <p>
+    A Cookie's Quest is an endless 2D arcade game developed in Unity and published on the Play Store.
+    I designed and built this game as a way to complete a fully realized small-scale project, allowing me to become familiar with every stage of the game development process — from concept to release.
+    I knew I would inevitably work on larger games in the future, so this project was a valuable way to prepare for that growth.
+    Publishing the game on the Play Store was not only a way to share my creation with others, but also a meaningful test to see if my work met the standards required for public release, while gaining insight into the publishing side of game development.
+  </p>
 
-Solo project — built from concept to release. Only assets used are background and sound effects; everything else is 100% made by me.
-    
+  <p><strong>Technologies:</strong> Unity, C#, GitHub, Milanote, Aseprite, Ableton 12</p>
+
+  <p><strong>Solo project —</strong> built from concept to release. Only assets used are background and sound effects; everything else is 100% made by me.</p>
  
  
    <h2>Slippery Slime</h2> 
