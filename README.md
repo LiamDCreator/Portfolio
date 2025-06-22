@@ -23,14 +23,22 @@ Hi there and thanks for taking a look at my portfolio, My name is Liam, I am a p
   <p><strong>Solo project —</strong> built from concept to release. Only assets used are background and sound effects; everything else is 100% made by me.</p>
  
  
-   <h2>Slippery Slime</h2> 
-— Slippery slime is an endless 2D arcade game and my current project. It builds upon the foundations of A Cookie's Quest, but on a larger scale and with increased complexity. In this game, you play as a slime caught in the middle of a war between humans and monsters. Both factions actively engage each other on the battlefield, and the player must survive by navigating through the chaos — dodging, weaving, and using the environment to stay alive.
+ <h2>Slippery Slime</h2> 
 
-The game focuses on two core elements: the player’s unique movement and the dynamic combat between factions. By observing enemy patterns and the flow of battle, players can identify safe zones and opportunities to maneuver. This encourages strategic thinking and quick reflexes, making each run unpredictable and engaging.
+<p>
+  Slippery Slime is an endless 2D arcade game and my current project. It builds upon the foundations of <em>A Cookie's Quest</em>, but on a larger scale and with increased complexity.
+  In this game, you play as a slime caught in the middle of a war between humans and monsters. Both factions actively engage each other on the battlefield, and the player must survive by navigating through the chaos — dodging, weaving, and using the environment to stay alive.
+</p>
 
-Technologies: Unity, C#, GitHub, Milanote aseprite  
+<p>
+  The game focuses on two core elements: the player’s unique movement and the dynamic combat between factions.
+  By observing enemy patterns and the flow of battle, players can identify safe zones and opportunities to maneuver.
+  This encourages strategic thinking and quick reflexes, making each run unpredictable and engaging.
+</p>
 
-Still in development 
+<p><strong>Technologies:</strong> Unity, C#, GitHub, Milanote, Aseprite</p>
+
+<p><strong>Status:</strong> Still in development</p>
    
 </details>
 
