@@ -27,7 +27,7 @@ My name is Liam, I am a passionate Unity game developer trying to turn the joy o
   <p><strong>Technologies:</strong> Unity, C#, GitHub, Milanote, Aseprite, Ableton 12</p>
 
   <p><strong>Solo project —</strong> built from concept to release. Only assets used are background and sound effects; everything else is 100% made by me.</p>  
-   gameplay video: <a href="https://www.youtube.com/watch?v=zmWWd107VPU" target="_blank">
+   video: <a href="https://www.youtube.com/watch?v=zmWWd107VPU" target="_blank">
     <img src="https://img.youtube.com/vi/zmWWd107VPU/0.jpg" alt="A Cookie's Quest Video" width="480" style="max-width:100%;">
   </a>  
 
@@ -50,7 +50,7 @@ My name is Liam, I am a passionate Unity game developer trying to turn the joy o
   <p><strong>Technologies:</strong> Unity, C#, GitHub, Milanote, Aseprite</p>
 
   <p><strong>Status:</strong> Still in development</p>  
-   gameplay video:  <a href="https://www.youtube.com/watch?v=4936MFopmxY" target="_blank">
+   video:  <a href="https://www.youtube.com/watch?v=4936MFopmxY" target="_blank">
     <img src="https://img.youtube.com/vi/4936MFopmxY/0.jpg" alt="Slippery Slime Video" width="480" style="max-width:100%;">
   </a>  
 </details>
