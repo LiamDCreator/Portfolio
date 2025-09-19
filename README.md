@@ -63,9 +63,7 @@ My name is Liam, I am a passionate Unity game developer trying to turn the joy o
   <p><strong>Technologies:</strong> Unity, C#, GitHub, Milanote, Aseprite</p>
 
   <p><strong>Status:</strong> Still in development</p>  
-   <strong>video:</strong>  <a href="https://www.youtube.com/watch?v=4936MFopmxY" target="_blank">
-    <img src="https://img.youtube.com/vi/4936MFopmxY/0.jpg" alt="Slippery Slime Video" width="480" style="max-width:100%;">
-  </a>  
+  
 </details>
 
 <details>
