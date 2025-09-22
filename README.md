@@ -19,7 +19,7 @@ My name is Liam, I am a passionate Unity game developer trying to turn the joy o
   </p>
    <p><strong>Technologies:</strong> Unity, C#, GitHub, Milanote</p>
 
-   (Video) <img src="images/resultsGamejam.jpg" alt="Game Results" style="width:30%;">
+   (Video) <img src="images/results Gamejam.jpg" alt="Game Results" style="width:30%;">
   
   <h2>A Cookie's Quest                  
     <a href="https://play.google.com/store/apps/details?id=com.liamDCreator" target="_blank">   
