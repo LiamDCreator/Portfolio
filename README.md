@@ -18,6 +18,8 @@ My name is Liam, I am a passionate Unity game developer trying to turn the joy o
    Card guesser is a Card game based around risk which I made in 6 days during the brackeys game jam 2025.2. The game centers around 2 chests of which one has a random value and one has a given value, Both in the same range. The player then has to guess which of the chest has a higher value and can use cards to either make the guess easier or harder, which will cost or give the player points. The player has to survive 10 rounds and try to gain as many points as possible in those rounds thus encouraging them to take as much risks as possible.  
   </p>
    <p><strong>Technologies:</strong> Unity, C#, GitHub, Milanote</p>
+Watch this video for gameplay
+</div>
      <div style="display: flex; gap: 20px; align-items: center;">
 
   <!-- YouTube video with thumbnail -->
@@ -78,7 +80,7 @@ My name is Liam, I am a passionate Unity game developer trying to turn the joy o
   <p><strong>Technologies:</strong> Unity, C#, GitHub, Milanote, Aseprite</p>
 
   <p><strong>Status:</strong> Still in development</p>  
-
+<p>Watch this video for gameplay:   </p>
    <a href="  https://www.youtube.com/watch?v=xJtZG1ntgl8" target="_blank">
     <img src="https://img.youtube.com/vi/xJtZG1ntgl8/0.jpg" 
          alt="YouTube Video Thumbnail" 
