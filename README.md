@@ -59,9 +59,11 @@ Watch this video for gameplay
 
   <p><strong>Solo project —</strong> built from concept to release. Only assets used are background and sound effects; everything else is 100% made by me.</p>  
      <p>watch this video for gameplay  </p>  
-    <a href="https://www.youtube.com/watch?v=zmWWd107VPU" target="_blank">
-    <img src="https://img.youtube.com/vi/zmWWd107VPU/0.jpg" alt="A Cookie's Quest Video" width="480" style="max-width:100%;">
-  </a>   
+ <a href="https://www.youtube.com/watch?v=zmWWd107VPU" target="_blank">
+  <img src="https://img.youtube.com/vi/zmWWd107VPU/0.jpg" 
+       alt="A Cookie's Quest Video" 
+       style="height:200px; object-fit:cover; cursor:pointer; border-radius:8px;">
+</a>
 
   <h2>Slippery Slime</h2> 
 
@@ -83,13 +85,11 @@ Watch this video for gameplay
 
   <p><strong>Status:</strong> Still in development</p>  
 <p>Watch this video for gameplay:   </p>
-   <div style="display: flex; gap: 20px; align-items: center;">
-
-  <!-- YouTube video with thumbnail -->
+ <div style="display: flex; gap: 20px; align-items: center;">
   <a href="https://www.youtube.com/watch?v=xJtZG1ntgl8" target="_blank">
     <img src="https://img.youtube.com/vi/xJtZG1ntgl8/0.jpg" 
          alt="YouTube Video Thumbnail" 
-         style="width:30%; cursor:pointer; border-radius:8px;">
+         style="height:200px; object-fit:cover; cursor:pointer; border-radius:8px;">
   </a>
 </div>
 </details>
