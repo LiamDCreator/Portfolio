@@ -18,8 +18,23 @@ My name is Liam, I am a passionate Unity game developer trying to turn the joy o
    Card guesser is a Card game based around risk which I made in 6 days during the brackeys game jam 2025.2. The game centers around 2 chests of which one has a random value and one has a given value, Both in the same range. The player then has to guess which of the chest has a higher value and can use cards to either make the guess easier or harder, which will cost or give the player points. The player has to survive 10 rounds and try to gain as many points as possible in those rounds thus encouraging them to take as much risks as possible.  
   </p>
    <p><strong>Technologies:</strong> Unity, C#, GitHub, Milanote</p>
+     <div style="display: flex; gap: 20px; align-items: center;">
 
-   (Video) <img src="images/results Gamejam.jpg" alt="Game Results" style="width:30%;">
+  <!-- YouTube video with thumbnail -->
+  <a href="https://www.youtube.com/watch?v=GThnvnxlWlY" target="_blank">
+    <img src="https://img.youtube.com/vi/GThnvnxlWlY/0.jpg" 
+         alt="YouTube Video Thumbnail" 
+         style="width:30%; cursor:pointer; border-radius:8px;">
+  </a>
+
+  <!-- Your custom image -->
+  <a href="images/results Gamejam.jpg" target="_blank">
+    <img src="images/results Gamejam.jpg" 
+         alt="Game Results" 
+         style="width:30%; border-radius:8px;">
+  </a>
+
+</div>
   
   <h2>A Cookie's Quest                  
     <a href="https://play.google.com/store/apps/details?id=com.liamDCreator" target="_blank">   
@@ -63,7 +78,12 @@ My name is Liam, I am a passionate Unity game developer trying to turn the joy o
   <p><strong>Technologies:</strong> Unity, C#, GitHub, Milanote, Aseprite</p>
 
   <p><strong>Status:</strong> Still in development</p>  
-  
+
+   <a href="  https://www.youtube.com/watch?v=xJtZG1ntgl8" target="_blank">
+    <img src="https://img.youtube.com/vi/xJtZG1ntgl8/0.jpg" 
+         alt="YouTube Video Thumbnail" 
+         style="width:30%; cursor:pointer; border-radius:8px;">
+  </a>
 </details>
 
 <details>
