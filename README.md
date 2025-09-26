@@ -81,11 +81,15 @@ Watch this video for gameplay
 
   <p><strong>Status:</strong> Still in development</p>  
 <p>Watch this video for gameplay:   </p>
-   <a href="  https://www.youtube.com/watch?v=xJtZG1ntgl8" target="_blank">
+   <div style="display: flex; gap: 20px; align-items: center;">
+
+  <!-- YouTube video with thumbnail -->
+  <a href="https://www.youtube.com/watch?v=xJtZG1ntgl8" target="_blank">
     <img src="https://img.youtube.com/vi/xJtZG1ntgl8/0.jpg" 
          alt="YouTube Video Thumbnail" 
          style="width:30%; cursor:pointer; border-radius:8px;">
   </a>
+</div>
 </details>
 
 <details>
