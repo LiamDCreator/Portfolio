@@ -22,21 +22,20 @@ To influence their chances, players can use cards that either make the guess eas
    <p><strong>Theme:</strong> Risk it for the biscuit </p>
    <p><strong>Technologies:</strong> Unity, C#, GitHub, Milanote</p>
 Watch this video for gameplay
-</div>
-     <div style="display: flex; gap: 20px; align-items: center;">
+<div style="display: flex; gap: 20px; align-items: center;">
 
   <!-- YouTube video with thumbnail -->
   <a href="https://www.youtube.com/watch?v=GThnvnxlWlY" target="_blank">
     <img src="https://img.youtube.com/vi/GThnvnxlWlY/0.jpg" 
          alt="YouTube Video Thumbnail" 
-         style="width:30%; cursor:pointer; border-radius:8px;">
+         style="height:200px; object-fit:cover; cursor:pointer; border-radius:8px;">
   </a>
 
   <!-- Your custom image -->
   <a href="images/results Gamejam.jpg" target="_blank">
     <img src="images/results Gamejam.jpg" 
          alt="Game Results" 
-         style="width:30%; border-radius:8px;">
+         style="height:200px; object-fit:cover; border-radius:8px;">
   </a>
 
 </div>
